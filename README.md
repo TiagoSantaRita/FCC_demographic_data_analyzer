@@ -1,6 +1,6 @@
 # Demographic Data Analyzer
 
-### this is my take and solution to the  [PROBLEM](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer). If you need any help just contact me
+### this is my take and solution to the  [Demographic Data Analyzer Problem](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer). If you need any help just contact me
 
 
 
